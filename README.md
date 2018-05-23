@@ -1,5 +1,7 @@
 # Next.js website
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zeit/next-website.svg?token=6cfe39fe9075b1d534fb8a3854b92e846bf6b21e235268e091bcc7d20fdc389b&ts=1527109151340)](https://greenkeeper.io/)
+
 The official website for Next.js
 
 ## Contribution
